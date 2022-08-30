@@ -126,5 +126,90 @@ var periyar={
 	occupation:"activist,politician,social reformer,",
 }	
 console.log(periyar);
+
+
+
+var me={
+	name:"M.Manikandan",
+	born:"2002",
+	degree:"Mathematics",
+	percentage:"63%",
+	college:"kalasalingam university",
+}
+console.log(me);
+
+
+
+
+var dog={
+	type:"siberian husky",
+	orgin:"siberia",
+	height:"53-60cm",
+	weight:"45-60pounds",
+	color:"black to pure white",
+}
+console.log(dog);
+
+
+
+
+var bag={
+	brand:"fastrack",
+	color:"black",
+	cost:"400rupees",
+	capacity:"32.5l",
+	dimensions:"w*h:32*50.5cm",
+}
+console.log(bag);
+
+
+
+var elon={
+	name:"Elon Reeve musk",
+	education:"university of peensylvania",
+	title:"founder,CEO,chief Engineer of space x",
+	networth:"25730 crores USD",
+}
+console.log(elon);
+
+
+
+var facebook={
+    founder:"Mark Zuckerberg and Eduardo Saverin",
+	CEO:"Mark Zuckerberg",
+	users:"2.94 billion",
+	writtenin:"c++,hack",
+	networth:"430 Billion",
+}
+console.log(facebook);
+
+
+
+var zoho={
+	founder:"sridharvembu tonythomas",
+	headquarters:"chennai,tamilnadu",
+	industry:"technology,information technology,software devolpment",
+	founded:"1996 march-17",
+	products:"online office suits and CRM software",
+}
+console.log(zoho);
+
+
+var twitter={
+    type:"social networking service",
+	founded:"march 21,2006",
+	founders:"jack dorsey ,noah glass, bizstone,evan williams",
+	ceo:"parag agarwal",
+}
+console.log(twitter);
 	
-	
+
+
+var TCS={
+    founder:"Tata sons",
+	founded:"1968",
+	areaserved:"world wide",
+	industry:"information technology consulting outsourcing",
+	headquaters:"mumbai",
+}	
+console.log(TCS);
